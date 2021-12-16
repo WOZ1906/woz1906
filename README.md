@@ -18,7 +18,6 @@ I'm a Web Developer. I Spend most of time coding outstanding projects. Passionat
 &nbsp;
 
 <hr color="#273849">
-&nbsp;
 
 #### &#x1f4c8; GitHub Stats
 ![WOZ 1906 GitHub stats](https://github-readme-stats.vercel.app/api?username=WOZ1906&theme=vue-dark&hide=contribs,prs)
@@ -50,8 +49,6 @@ I'm a Web Developer. I Spend most of time coding outstanding projects. Passionat
 <br />
 <br />
 <hr color="#273849">
-
-&nbsp;
 
 
 ### 📫 Bizness
